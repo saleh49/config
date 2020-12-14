@@ -1,3 +1,7 @@
+################################
+# This specially for windows and if one is going to use it may have to make little bit changes
+
+
 # Enable tab completion
 source ~/.saleh-terminal-config/git-completion.bash
 
